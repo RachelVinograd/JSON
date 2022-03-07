@@ -15,19 +15,19 @@
       "customers": 0
     },
     "2015-01-03": {
-      "sales": "-17.00",
+      "sales": "-444.00",
       "orders": 1,
       "items": 1,
       "customers": 0
     },
     "2015-01-04": {
-      "sales": "-17.00",
+      "sales": "-0.50",
       "orders": 1,
       "items": 1,
       "customers": 0
     },
     "2015-01-05": {
-      "sales": "-17.00",
+      "sales": "17.00",
       "orders": 1,
       "items": 1,
       "customers": 0
@@ -45,7 +45,7 @@
       "customers": 0
     },
     "2015-01-08": {
-      "sales": "-17.00",
+      "sales": "661.00",
       "orders": 1,
       "items": 1,
       "customers": 0
@@ -63,55 +63,55 @@
       "customers": 0
     },
     "2015-01-11": {
-      "sales": "-17.00",
+      "sales": "801.00",
       "orders": 1,
       "items": 1,
       "customers": 0
     },
     "2015-01-12": {
-      "sales": "-17.00",
+      "sales": "1.00",
       "orders": 1,
       "items": 1,
       "customers": 0
     },
     "2015-01-13": {
-      "sales": "-17.00",
+      "sales": "7.04",
       "orders": 1,
       "items": 1,
       "customers": 0
     },
     "2015-01-14": {
-      "sales": "-17.00",
+      "sales": "-1755.00",
       "orders": 1,
       "items": 1,
       "customers": 0
     },
     "2015-01-15": {
-      "sales": "-17.00",
+      "sales": "7.70",
       "orders": 1,
       "items": 1,
       "customers": 0
     },
     "2015-01-16": {
-      "sales": "-17.00",
+      "sales": "-3.00",
       "orders": 1,
       "items": 1,
       "customers": 0
     },
     "2015-01-17": {
-      "sales": "-17.00",
+      "sales": "0.01",
       "orders": 1,
       "items": 1,
       "customers": 0
     },
     "2015-01-18": {
-      "sales": "-17.00",
+      "sales": "222.00",
       "orders": 1,
       "items": 1,
       "customers": 0
     },
     "2015-01-19": {
-      "sales": "0.00",
+      "sales": "4.00",
       "orders": 0,
       "items": 0,
       "customers": 0
