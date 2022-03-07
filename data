@@ -27,13 +27,13 @@
       "customers": 0
     },
     "2015-01-05": {
-      "sales": "17.00",
+      "sales": "190.00",
       "orders": 1,
       "items": 1,
       "customers": 0
     },
     "2015-01-06": {
-      "sales": "-17.00",
+      "sales": "-171.04",
       "orders": 1,
       "items": 1,
       "customers": 0
